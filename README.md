@@ -67,8 +67,8 @@ Microscope → Image Capture → Detection + Classification (YOLOv8-Nano) → Co
 
 | Task                           | Model            | Accuracy | Notes                                                  |
 | ------------------------------ | ---------------- | -------- | ------------------------------------------------------ |
-| **Detection & Classification** | YOLOv8 Nano      | -        | Quantized ONNX/TFLite model optimized for Raspberry Pi |
-| **Counting**                   | Detection-driven | –        | Automatically counts organisms per class               |
+| **Detection & Classification** | YOLOv8 Nano      | 84%      | Quantized ONNX/TFLite model optimized for Raspberry Pi |
+| **Counting**                   | Detection-driven | 76%      | Automatically counts organisms per class               |
 
 ### 🧩 Optimizations
 
