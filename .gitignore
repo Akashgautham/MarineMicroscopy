@@ -1,0 +1,7 @@
+cad_ml312/
+venv/
+.venv/
+__pycache__/
+*.pth
+*.pyd
+*.dll
